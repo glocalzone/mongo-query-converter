@@ -1,0 +1,21 @@
+{
+  "name": "mongo-query-converter",
+  "version": "0.0.0",
+  "description": "It's a MongoDB helper tool that converters the given string date variable into JavaScript date format",
+  "main": "index.js",
+  "keywords": [
+    "MongoDB",
+    "query",
+    "converter"
+  ],
+  "repository": {
+    "url": "https://github.com/glocalzone/mongo-query-converter",
+    "type": "git"
+  },
+  "bugs": "https://github.com/glocalzone/mongo-query-converter/issues",
+  "author": "Glocalzone OU",
+  "license": "MIT",
+  "dependencies": {
+    "wtf-is-this": "^0.0.5"
+  }
+}
