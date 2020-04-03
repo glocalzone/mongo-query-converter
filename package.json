@@ -1,6 +1,6 @@
 {
   "name": "mongo-query-converter",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "It's a MongoDB helper tool that converters the given string date variable into JavaScript date format",
   "main": "index.js",
   "keywords": [
