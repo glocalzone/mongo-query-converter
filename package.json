@@ -17,5 +17,8 @@
   "license": "MIT",
   "dependencies": {
     "wtf-is-this": "^0.0.5"
+  },
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/" 
   }
 }
